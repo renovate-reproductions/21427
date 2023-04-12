@@ -23,4 +23,4 @@ According the _Codepen_ mentioned here: https://docs.renovatebot.com/configurati
 
 ## Outcome
 
-Renovate creates an issue https://github.com/MaxWinterstein/renovate-minimal-reproduction-21427/issues/4 and complains about invalid schedule.
+Renovate creates an issue https://github.com/renovate-reproductions/21427/issues/1 and complains about invalid schedule.
