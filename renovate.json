@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-   "schedule": ["0 0 * */2 6L"]
+   "schedule": ["0 0 * * 6L"]
 }
