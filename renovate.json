@@ -4,5 +4,5 @@
     "config:base"
   ],
     "dependencyDashboard": true,
-   "schedule": ["0 0 * * 6L"]
+   "schedule": ["0 0 * * 6"]
 }
