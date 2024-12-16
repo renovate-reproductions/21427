@@ -3,5 +3,6 @@
   "extends": [
     "config:base"
   ],
-   "schedule": ["every 2 months on the first saturday of the month"]
+    "dependencyDashboard": true,
+   "schedule": ["* * */2 6#1"]
 }
